@@ -1,0 +1,39 @@
+_repo: Jack-Straw-in-Mexico-How-the-Engineers-Defended-the-Great-Hydro-Electric-Plant_60941
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crump, Leslie
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '44200'
+    url: http://www.gutenberg.org/2009/agents/44200
+creator:
+  author:
+    agent_name: Crump, Irving
+    aliases:
+    - Crump, J. Irving (James Irving)
+    - Crump, James Irving
+    birthdate: 1887
+    deathdate: 1979
+    gutenberg_agent_id: '34618'
+    url: http://www.gutenberg.org/2009/agents/34618
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60941'
+  lccn: '14015370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dams -- Juvenile fiction'
+- !lcsh 'Mexico -- History -- Revolution, 1910-1920 -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Americans -- Mexico -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Jack Straw in Mexico: How the Engineers Defended the Great Hydro-Electric
+  Plant'
+url: http://www.gutenberg.org/ebooks/60941
